@@ -1,0 +1,19 @@
+GTM Engineer - Northwind Labs (Remote)
+
+Northwind Labs is a fast-growing B2B SaaS company. We're hiring a GTM Engineer
+to build the systems that power our outbound and revenue operations.
+
+What you'll do
+- Build and maintain lead generation and data enrichment workflows using Apollo, Clay and our CRM (HubSpot).
+- Write Python scripts and use APIs and webhooks to connect our go-to-market tools.
+- Design lead scoring models based on our ICP and route leads to the right reps.
+- Use LLMs (Claude or OpenAI) for personalization at scale in cold email sequences.
+- Track funnel metrics and build dashboards for the sales team.
+- Work cross-functional with sales, marketing and RevOps.
+
+What we're looking for
+- 1-3 years in growth, sales operations, RevOps or marketing operations.
+- Strong Python and SQL; experience with REST APIs.
+- Hands-on with Apollo, Clay, HubSpot or Salesforce, and Zapier or n8n.
+- Experience with email deliverability and A/B testing outbound campaigns.
+- Bonus: experience with AI agents or voice AI products.

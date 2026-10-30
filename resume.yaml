@@ -1,0 +1,59 @@
+# Your master resume: everything you've done, in one place.
+# The tailor picks and rephrases from this; it never adds anything new.
+# This is a sample. Replace it with your own details.
+
+name: Alex Morgan
+headline: Growth & Automation Specialist
+contact:
+  email: alex.morgan@example.com
+  phone: "+1 555 0100"
+  location: Remote
+  linkedin: linkedin.com/in/alexmorgan-example
+  github: github.com/alexmorgan-example
+
+summary: >
+  Automation-focused marketer who builds outbound and lead-generation systems
+  with Python and no-code tools. Comfortable working with APIs, CRMs and
+  spreadsheets to turn manual sales tasks into repeatable workflows.
+
+skills:
+  - category: Programming
+    items: [Python, SQL, REST APIs, Git, GitHub Actions]
+  - category: Sales & Marketing Tools
+    items: [Apollo.io, Saleshandy, HubSpot, Zapier, Google Sheets]
+  - category: AI
+    items: [Claude API, Prompt engineering, LLM-based personalization]
+  - category: Other
+    items: [Canva, WordPress, Photoshop]
+
+experience:
+  - title: Marketing Automation Associate
+    company: Brightline Digital
+    location: Remote
+    dates: Jan 2024 - Present
+    bullets:
+      - Built Python scripts that pull leads from Apollo.io, score them and load them into cold email sequences, cutting manual list-building from 6 hours to 30 minutes a week.
+      - Set up HubSpot workflows and Zapier automations to route inbound leads to the right sales rep within 5 minutes.
+      - Wrote and A/B tested cold email copy across 3 campaigns, raising reply rate from 2.1% to 4.8%.
+      - Created weekly Google Sheets dashboards tracking open, reply and meeting-booked rates.
+  - title: Digital Marketing Intern
+    company: Sunrise Media
+    location: Pune, India
+    dates: Jun 2023 - Dec 2023
+    bullets:
+      - Managed social media calendars and designed posts in Canva for 4 clients.
+      - Updated WordPress websites and improved on-page SEO for 20+ pages.
+      - Researched prospects and kept the CRM up to date for the sales team.
+
+projects:
+  - name: GTM Voice AI
+    description: Outbound pipeline for an AI voice assistant; Apollo search and enrichment, 0-100 lead scoring, Claude-written openers and Saleshandy sequencing, with a scheduled GitHub Actions run.
+    link: github.com/joshivinod475-sudo/gtm-voice-ai
+  - name: Resume Tailor
+    description: Tailors a resume to a job description with Claude, with ATS keyword scoring and an integrity check that blocks invented experience.
+    link: github.com/joshivinod475-sudo/resume-tailor
+
+education:
+  - degree: B.Com
+    school: Savitribai Phule Pune University
+    dates: 2020 - 2023
